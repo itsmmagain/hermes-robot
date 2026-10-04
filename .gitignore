@@ -1,0 +1,4 @@
+firmware/hermes_firmware/secrets.h
+.DS_Store
+*.bak
+build/
